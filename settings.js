@@ -2,11 +2,11 @@
 
 const fs = require('fs')
 const chalk = require('chalk')
-global.owner = ['6281395861695']
-global.ownernomer = "6281395861695"
-global.premium = ['6281395861695']
+global.owner = ['6289665221381']
+global.ownernomer = "6289665221381"
+global.premium = ['6289665221381']
 global.packname = 'Sticker By'
-global.author = 'BOTCAHX'
+global.author = 'BOT Rey'
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
